@@ -63,7 +63,7 @@ local themeStyles = {
 		TextColor = Color3.fromRGB(255,255,255),
 		ElementColor = Color3.fromRGB(20, 20, 20)
 	},
-EpicTheme = {
+        EpicTheme = {
 		SchemeColor = Color3.fromRGB(165, 40, 40),
 		Background = Color3.fromRGB(0, 0, 0),
 		Header = Color3.fromRGB(0, 0, 0),
